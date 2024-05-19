@@ -1,3 +1,4 @@
+#Задание 1
 import asyncio
 
 async def scan_port(host, port, sem):
